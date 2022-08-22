@@ -4,7 +4,7 @@
 
 [OpenSea](https://testnets.opensea.io/collection/family-tree): https://testnets.opensea.io/collection/family-tree
 
-[Smart Contract](https://mumbai.polygonscan.com/address/0xdceab932ed76bd85cca7703b00be443de05aee84):https://mumbai.polygonscan.com/address/0xdceab932ed76bd85cca7703b00be443de05aee84
+[Smart Contract](https://mumbai.polygonscan.com/address/0xdceab932ed76bd85cca7703b00be443de05aee84): https://mumbai.polygonscan.com/address/0xdceab932ed76bd85cca7703b00be443de05aee84
 
 # Family Tree NFT
 
